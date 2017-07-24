@@ -1,0 +1,8 @@
+C:\Users\matth\workspace\BagAPI\bin\Debug\netcoreapp1.0\BagAPI.deps.json
+C:\Users\matth\workspace\BagAPI\bin\Debug\netcoreapp1.0\BagAPI.runtimeconfig.json
+C:\Users\matth\workspace\BagAPI\bin\Debug\netcoreapp1.0\BagAPI.runtimeconfig.dev.json
+C:\Users\matth\workspace\BagAPI\bin\Debug\netcoreapp1.0\BagAPI.dll
+C:\Users\matth\workspace\BagAPI\bin\Debug\netcoreapp1.0\BagAPI.pdb
+C:\Users\matth\workspace\BagAPI\obj\Debug\netcoreapp1.0\BagAPI.AssemblyInfo.cs
+C:\Users\matth\workspace\BagAPI\obj\Debug\netcoreapp1.0\BagAPI.dll
+C:\Users\matth\workspace\BagAPI\obj\Debug\netcoreapp1.0\BagAPI.pdb
